@@ -1,0 +1,5 @@
+/Users/Maria/Projects/Project_4/Project_4/obj/x86/Debug/Project_4.csproj.CoreCompileInputs.cache
+/Users/Maria/Projects/Project_4/Project_4/bin/Debug/Project_4.exe
+/Users/Maria/Projects/Project_4/Project_4/bin/Debug/Project_4.pdb
+/Users/Maria/Projects/Project_4/Project_4/obj/x86/Debug/Project_4.exe
+/Users/Maria/Projects/Project_4/Project_4/obj/x86/Debug/Project_4.pdb
