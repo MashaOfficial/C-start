@@ -1,0 +1,5 @@
+/Users/Maria/Projects/Algorithms/bin/Debug/Algorithms.exe
+/Users/Maria/Projects/Algorithms/bin/Debug/Algorithms.pdb
+/Users/Maria/Projects/Algorithms/obj/x86/Debug/Algorithms.csproj.CoreCompileInputs.cache
+/Users/Maria/Projects/Algorithms/obj/x86/Debug/Algorithms.exe
+/Users/Maria/Projects/Algorithms/obj/x86/Debug/Algorithms.pdb
